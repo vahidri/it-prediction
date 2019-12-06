@@ -1,0 +1,8 @@
+t_part
+calculating...
+parameters: 9.98173    0.0951262      -1.3693      8.38628      10.6614      26.0127     -30.6432     -7.15511      9.76765
+final cost: 2.535
+RMSE for test-set: 2.1276
+Exact Prediction Rate of test-set: 25.4667
+Exact Prediction Rate of all: 25.2095
+RMSE of all: 2.2174

@@ -1,4 +1,4 @@
-# Operating Systems course
+# Fundamentals of IT course
 ## Spring 2017
 
 Using **Regression** to predict features.
